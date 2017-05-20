@@ -65,7 +65,7 @@ public class FlappyBird implements ActionListener, MouseListener, KeyListener
 
 	public void addColumn(boolean start)
 	{
-		int space = 400;
+		int space = 300;
 		int width = 100;
 		int height = 50 + rand.nextInt(300);
 
