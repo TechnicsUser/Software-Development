@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 public class menuDemo extends JFrame implements ActionListener {
 
-	private final String APP_NAME = "Menu Demonstration Program";
+	private final String APP_NAME = "Menus Demonstration Program";
 
 	private int frameWidth = 500;
 	private int frameHeight = 500;
