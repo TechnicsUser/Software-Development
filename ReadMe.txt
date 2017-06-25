@@ -1,7 +1,27 @@
 Author: technicsUser
-Author: CodexWorld
-
 Author URL: http://www.autonomousIreland.com/
+Author Email: stephen@autonomousireland.com
+
+============ Introduction ============
+
+This project uses php to register/login to site by form or googleApi. 
+Data is stored as sql using phpMyAdmin.
+
+
+============ Installation ============
+
+https://www.youtube.com/watch?v=xdvVKywGlc0
+
+http://www.newthinktank.com/2015/12/install-xampp/
+
+
+
+
+
+
+
+++++++++++++ Original readMe +++++++++++++++++++++
+Author: CodexWorld
 Author URL: http://www.codexworld.com/
 Author Email: contact@codexworld.com
 Tutorial Link: http://www.codexworld.com/login-with-google-api-using-php/
