@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=xdvVKywGlc0
 
 http://www.newthinktank.com/2015/12/install-xampp/
 
+setup_readme.txt contains xampp setup details and original files
+
 
 
 
